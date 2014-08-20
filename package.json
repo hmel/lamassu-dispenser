@@ -1,0 +1,28 @@
+{
+  "name": "lamassu-dispenser",
+  "version": "1.0.0",
+  "description": "For interfacing with the bill dispenser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lamassu/lamassu-dispenser.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "lamassu"
+  ],
+  "author": "Josh Harvey <josh@lamassu.is> (https://lamassu.is/)",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/lamassu/lamassu-dispenser/issues"
+  },
+  "dependencies": {
+    "serialport": "~1.4.5"
+  }
+}
